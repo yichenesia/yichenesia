@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Chloe, and I'm a 4th year student studying computer science at the University of Toronto. 
+
+I love to draw in my free time!
+
 <!--
 **yichenesia/yichenesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
